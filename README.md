@@ -7,7 +7,10 @@
 
 ![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasGabrielAmorimSteffen&show_icons=true&theme=radical)
 
+![Most Used Languages[(https://github-readme-stats.vercel.app/api/top-langs?username=LucasGabrielAmorimSteffen)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasGabrielAmorimSteffen)
+
+![Current Streak](https://github-readme-streak-stats.herokuapp.com/?user=LucasGabrielAmorimSteffen&)
 
 ## Tecnologias que uso no meu dia a dia
 
