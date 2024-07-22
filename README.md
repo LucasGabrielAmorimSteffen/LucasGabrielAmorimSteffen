@@ -14,12 +14,11 @@
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=5566999045963&text&type=phone_number&app_absent=0)
 [![Portfolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://comforting-kelpie-e22c23.netlify.app)
 
+### 🚀 Some Status
 ![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasGabrielAmorimSteffen&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasGabrielAmorimSteffen&layout=compact)
-
 ![Current Streak](https://github-readme-streak-stats.herokuapp.com/?user=LucasGabrielAmorimSteffen&)
 
-<h3 align="left">Languages and Tools: </h3>
+### 🔝 Languages & Technologies
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasGabrielAmorimSteffen&layout=compact)
 
 [![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
