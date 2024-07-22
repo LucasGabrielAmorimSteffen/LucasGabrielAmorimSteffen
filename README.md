@@ -1,4 +1,13 @@
-### Olá! Eu me chamo Lucas Gabriel 😄
+<h1 align="center">Hi 👋, I'm Lucas</h1>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=LucasGabrielAmorimSteffen&label=Profile%20views&color=0e75b6&style=flat" alt="ayomide11233" /> </p>
+
+- 🌱 I’m currently learning **Backend development, JavaScript and PosteSQL**
+
+- 📫 How to reach me **lucasgabriel.programador@gmail.com**
+  
+<h3 align="left">Connect with me: </h3>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-gabriel-amorim-steffen-a29a37291/?originalSubdomain=br)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/steffen_lucasgabriel/)
@@ -11,6 +20,6 @@
 
 ![Current Streak](https://github-readme-streak-stats.herokuapp.com/?user=LucasGabrielAmorimSteffen&)
 
-## Tecnologias que uso no meu dia a dia
+<h3 align="left">Languages and Tools: </h3>
 
 [![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
