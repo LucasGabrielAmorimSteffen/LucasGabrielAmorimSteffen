@@ -18,4 +18,4 @@
 ### 🔝 Languages & Technologies
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasGabrielAmorimSteffen&layout=compact)
 
-[![My Skills](https://skillicons.dev/icons?i=js,mysql,mongodb,nodejs,lua&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,mysql,nodejs&theme=light)](https://skillicons.dev)
