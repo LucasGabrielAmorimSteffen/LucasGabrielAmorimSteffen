@@ -1,6 +1,6 @@
 <h1>Hi 👋, I'm Lucas</h1>
 
-- 🌱 I’m currently learning **Backend development, JavaScript and PosteSQL**
+- 🌱 I’m currently learning **Backend development, JavaScript and PostgreSQL**
 
 - 📫 How to reach me **lucasgabriel.programador@gmail.com**
   
@@ -13,7 +13,6 @@
 
 ### 🚀 Some Status
 ![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasGabrielAmorimSteffen&show_icons=true&theme=radical)
-![Current Streak](https://github-readme-streak-stats.herokuapp.com/?user=LucasGabrielAmorimSteffen&)
 
 ### 🔝 Languages & Technologies
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasGabrielAmorimSteffen&layout=compact)
