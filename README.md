@@ -4,16 +4,16 @@
 
 <br>
 <div align="center" display="flex">
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a>
   <img height=150  src="https://github-readme-stats.vercel.app/api?username=LucasGabrielAmorimSteffen&theme=merko&show_icons=true" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=150  src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasGabrielAmorimSteffen&layout=compact&langs_count=16&theme=merko" />
+<a>
+  <img height=150  src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasGabrielAmorimSteffen&theme=merko&layout=compact" />
 </a>
 </div>
 
 ## My Stacks🚀:
-[![My Skills](https://skillicons.dev/icons?i=js,nodejs,postgres,git,postman&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,nodejs,postgres,git,postman&theme=dark)]()
 
 ## Connect With Me:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-gabriel-amorim-steffen-a29a37291/?originalSubdomain=br)
