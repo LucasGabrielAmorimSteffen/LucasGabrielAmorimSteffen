@@ -3,12 +3,12 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=006400&center=true&vCenter=true&width=300&lines=Hello%2C+my+name+is+Lucas;I'm+18+years+old;I'm+a+backend+developer)](https://git.io/typing-svg)
 
 <br>
-<div align="center" display="flex" >
+<div align="center" display="flex">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200  src="https://github-readme-stats.vercel.app/api?username=LucasGabrielAmorimSteffen&theme=merko&show_icons=true" />
+  <img height=150  src="https://github-readme-stats.vercel.app/api?username=LucasGabrielAmorimSteffen&theme=merko&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200  src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasGabrielAmorimSteffen&layout=compact&langs_count=16&theme=merko" />
+  <img height=150  src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasGabrielAmorimSteffen&layout=compact&langs_count=16&theme=merko" />
 </a>
 </div>
 
