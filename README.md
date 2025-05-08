@@ -13,7 +13,7 @@
 </div>
 
 ## My Stacks🚀:
-[![My Skills](https://skillicons.dev/icons?i=js,nodejs,php,postgres,git,postman&theme=dark)]()
+[![My Skills](https://skillicons.dev/icons?i=js,nodejs,npm,express,docker,postgres,git,postman&theme=dark)]()
 
 ## Connect With Me:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-gabriel-amorim-steffen-a29a37291/?originalSubdomain=br)
