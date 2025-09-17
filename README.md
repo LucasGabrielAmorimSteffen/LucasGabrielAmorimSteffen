@@ -1,21 +1,62 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=32CD32&height=120&section-header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=32CD32&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=006400&center=true&vCenter=true&width=300&lines=Hello%2C+my+name+is+Lucas;I'm+18+years+old;I'm+a+backend+developer)](https://git.io/typing-svg)
+<h1 align="center">⚙️ Lucas Gabriel Amorim Steffen ⚙️</h1>
+<p align="center">
+  <b>Backend Developer • Node.js • PostgreSQL • Docker</b>
+</p>
 
-<br>
-<div align="center" display="flex">
-<a>
-  <img height=150  src="https://github-readme-stats.vercel.app/api?username=LucasGabrielAmorimSteffen&theme=merko&show_icons=true" />
-</a>
-<a>
-  <img height=150  src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasGabrielAmorimSteffen&langs_count=100&theme=merko&layout=compact"/>
-</a>
+---
+
+## 🚀 About Me  
+- 💻 Backend Developer apaixonado por arquiteturas limpas, escaláveis e performáticas  
+- 🛠️ Experiência com Node.js, Express, PostgreSQL, Firebird, Docker e boas práticas em API REST  
+- 📊 Entusiasta de bancos de dados relacionais e otimização de queries  
+- 📦 Curto escrever código robusto e bem estruturado seguindo padrões modernos  
+
+---
+
+## 📊 Estatísticas GitHub
+<div align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=LucasGabrielAmorimSteffen&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasGabrielAmorimSteffen&layout=compact&langs_count=10&theme=chartreuse-dark"/>
 </div>
 
-## My Stacks🚀:
-[![My Skills](https://skillicons.dev/icons?i=js,nodejs,npm,express,docker,postgres,git,postman&theme=dark)]()
+---
 
-## Connect With Me:
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-gabriel-amorim-steffen-a29a37291/?originalSubdomain=br)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/steffen_lucasgabriel/)
+## 📈 GitHub Metrics  
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LucasGabrielAmorimSteffen&theme=chartreuse_dark"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LucasGabrielAmorimSteffen&theme=chartreuse_dark"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LucasGabrielAmorimSteffen&theme=chartreuse_dark&utcOffset=3"/>
+</div>
+
+---
+
+## 🔥 Contributions
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=LucasGabrielAmorimSteffen&theme=chartreuse-dark&hide_border=false" alt="Streak Stats"/>
+</div>
+
+---
+
+## 🛠️ Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=js,nodejs,npm,express,postgres,docker,git,github,postman&theme=dark)]()
+
+---
+
+## 🧠
+> *"Se rodar em servidor, eu resolvo.  
+Se travar em produção, eu dou um jeito.  
+Se o banco não responde, eu otimizo a query.  
+E se nada funcionar… eu reescrevo do zero."*
+
+---
+
+## 🌐 Contato
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-gabriel-amorim-steffen-a29a37291)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=5566999045963&text&type=phone_number&app_absent=0)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/steffen_lucasgabriel/)
+
+---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=32CD32&height=120&section=footer"/>
