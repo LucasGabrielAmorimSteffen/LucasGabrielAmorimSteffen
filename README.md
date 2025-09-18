@@ -17,7 +17,6 @@
 
 ## 📊 Estatísticas GitHub
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=LucasGabrielAmorimSteffen&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasGabrielAmorimSteffen&layout=compact&langs_count=10&theme=chartreuse-dark"/>
 </div>
 
@@ -28,13 +27,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LucasGabrielAmorimSteffen&theme=chartreuse_dark"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LucasGabrielAmorimSteffen&theme=chartreuse_dark"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LucasGabrielAmorimSteffen&theme=chartreuse_dark&utcOffset=3"/>
-</div>
-
----
-
-## 🔥 Contributions
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=LucasGabrielAmorimSteffen&theme=chartreuse-dark&hide_border=false" alt="Streak Stats"/>
 </div>
 
 ---
