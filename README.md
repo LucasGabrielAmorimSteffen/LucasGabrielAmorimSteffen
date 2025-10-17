@@ -17,7 +17,7 @@
 
 ## 📊 Estatísticas GitHub
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasGabrielAmorimSteffen&layout=compact&langs_count=10&theme=chartreuse-dark"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasGabrielAmorimSteffen&layout=compact&langs_count=50&theme=chartreuse-dark"/>
 </div>
 
 ---
